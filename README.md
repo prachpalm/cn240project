@@ -30,3 +30,12 @@
 - Other.ipynb: เป็นไฟล์ที่ใช้สำหรับจัดทำ model other ของตัว machine learning โดยผ่านวิธีการต่างๆ ทั้ง SVM(Support Vector Machine) KNN (K-nearest neighbors) LG (Linear Regression) NB (Naieve Bayes) โดยตัวโมเดลจะไปเซฟไว้ในโฟลเดอร์ใหม่ที่ผู้ใช้ต้องตั้งชื่อว่า Model/other
 - Folder Graph: จัดเก็บ output เป็นกราฟ ROC ของไฟล์ Glaucoma Normal Other.ipnyb
 - Folder Matrix: จัดเก็บ output เป็นกราฟ confusion matrix ของไฟล์ Glaucoma Normal Other.ipnyb
+
+**DL.pdf**
+  เป็นไฟล์อธิบายโค้ดเบื้องต้นเกี่ยวกับการสร้างโมเดลพล็อตกราฟ ROC และ Confusion Matrix ของโฟลเดอร์ Deep Learning
+
+**ML.pdf**
+  เป็นไฟล์อธิบายโค้ดเบื้องต้นเกี่ยวกับการสร้างโมเดลพล็อตกราฟ ROC และ Confusion Matrix ของโฟลเดอร์ Machine Learning
+  
+**preProcessingML.pdf**
+  เป็นไฟล์อธิบายโค้ดเกี่ยวกับขั้นตอนและฟังก์ชั่นต่างๆ ในการ preprocessing ของไฟล์ preprocessing.ipynb ภายในโฟลเดอร์ ML
