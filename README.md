@@ -32,10 +32,10 @@
 - Folder Matrix: จัดเก็บ output เป็นกราฟ confusion matrix ของไฟล์ Glaucoma Normal Other.ipnyb
 
 **DL.pdf**
-  เป็นไฟล์อธิบายโค้ดเบื้องต้นเกี่ยวกับการสร้างโมเดลพล็อตกราฟ ROC และ Confusion Matrix ของโฟลเดอร์ Deep Learning
+-  เป็นไฟล์อธิบายโค้ดเบื้องต้นเกี่ยวกับการสร้างโมเดลพล็อตกราฟ ROC และ Confusion Matrix ของโฟลเดอร์ Deep Learning
 
 **ML.pdf**
-  เป็นไฟล์อธิบายโค้ดเบื้องต้นเกี่ยวกับการสร้างโมเดลพล็อตกราฟ ROC และ Confusion Matrix ของโฟลเดอร์ Machine Learning
+-  เป็นไฟล์อธิบายโค้ดเบื้องต้นเกี่ยวกับการสร้างโมเดลพล็อตกราฟ ROC และ Confusion Matrix ของโฟลเดอร์ Machine Learning
   
 **preProcessingML.pdf**
-  เป็นไฟล์อธิบายโค้ดเกี่ยวกับขั้นตอนและฟังก์ชั่นต่างๆ ในการ preprocessing ของไฟล์ preprocessing.ipynb ภายในโฟลเดอร์ ML
+-  เป็นไฟล์อธิบายโค้ดเกี่ยวกับขั้นตอนและฟังก์ชั่นต่างๆ ในการ preprocessing ของไฟล์ preprocessing.ipynb ภายในโฟลเดอร์ ML
